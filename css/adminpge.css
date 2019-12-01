@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(208, 172, 241);
+}
+
+.col-sm-10 {
+    background: rgb(247, 243, 248);
+}
+
+#side-menu a:hover {
+    background-color: rgb(146, 38, 160);
+}
+
+#footer {
+    padding: 10px;
+    border-top: 1px solid black;
+    color: #eeeeee;
+    background-color: #211f22;
+    text-align: center;
+}
